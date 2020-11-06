@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">android_num9_RandomNumber</string>
+    <string name="Hw9_title">猜數字遊戲</string>
+    <string name="Hw9_num1">1</string>
+    <string name="Hw9_num2">2</string>
+    <string name="Hw9_num3">3</string>
+    <string name="Hw9_num4">4</string>
+    <string name="Hw9_num5">5</string>
+    <string name="Hw9_num6">6</string>
+    <string name="Hw9_num7">7</string>
+    <string name="Hw9_num8">8</string>
+    <string name="Hw9_num9">9</string>
+    <string name="Hw9_Restart">重新開始</string>
+    <string name="Hw9_back">返回</string>
+    <string name="Hw9_Output">送出</string>
+</resources>
